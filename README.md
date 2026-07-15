@@ -1,0 +1,2 @@
+# MediCare-AI-Powered-Smart-Health-Monitoring-and-Medication-Management-System
+MediCare is an AI-powered healthcare system using IoT and cloud technology for continuous elderly health monitoring. An ESP32 connects sensors like a BP monitor and glucometer to the cloud. An AI web dashboard analyzes data, tracks medications, detects health abnormalities, and provides real-time insights to patients and doctors.
