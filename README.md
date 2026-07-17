@@ -67,3 +67,4 @@ MIT — see [LICENSE](./LICENSE).
 MediCare's AI-generated health insights are **decision-support information
 only** and are **not a medical diagnosis**. The system does not replace
 consultation with a licensed physician.
+UPDATED BY R SAI VEDANT
